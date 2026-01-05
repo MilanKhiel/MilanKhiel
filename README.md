@@ -1,3 +1,7 @@
+#                                                    I'm Vaishnavi Thamburaj
+#                                                    Information Systems @ CSULB
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Building production-ready full-stack and applied AI systems, including a multi-tenant SaaS that integrates LLMs with backend services using strict validation, deterministic logic, and reliability guardrails.<br><br>👯 I’m looking to collaborate on<br>Software engineering projects involving backend development, APIs, system design, and applied AI features that need to be robust, testable, and scalable.<br><br>🤝 I’m looking for help with<br>Improving system design, performance, and scalability of backend services, and learning best practices used in production engineering teams.<br><br>🌱 I’m currently learning<br>System design fundamentals, scalable backend architecture, and reliable integration of AI components into software systems.<br><br>💬 Ask me about<br>Backend development, full-stack SaaS architecture, API design, integrating LLMs into applications, and building AI features with validation and guardrails.<br><br>⚡ Fun fact<br>I enjoy working on features where correctness, edge cases, and reliability matter more than just shipping something quickly.
 

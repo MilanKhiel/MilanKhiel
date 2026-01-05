@@ -8,7 +8,7 @@
 
 <h3>🌐 Socials:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaishnavithamburaj) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavithamburaj/) 
 
 <h3> 💻 Tech Stack:</h3>
 

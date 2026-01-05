@@ -1,4 +1,4 @@
-<h1 align="center">Vaishnavi Thamburaj</h1>
+<h1 align="center">I'm Vaishnavi Thamburaj</h1>
 <h3 align="center">Information Systems @ CSULB</h3>
 
 

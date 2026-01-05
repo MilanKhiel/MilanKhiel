@@ -1,5 +1,5 @@
-#                                                    I'm Vaishnavi Thamburaj
-#                                                    Information Systems @ CSULB
+<h1 align="center">Vaishnavi Thamburaj</h1>
+<h3 align="center">Information Systems @ CSULB</h3>
 
 
 # 💫 About Me:

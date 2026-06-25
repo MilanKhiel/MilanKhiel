@@ -1,23 +1,48 @@
-<h1 align="center">I'm Vaishnavi Thamburaj</h1>
-<h2 align="center">Information Systems @ CSULB</h2>
+# Vaishnavi Thamburaj
 
+**Product & Data Analyst** — I turn data into decisions and product experiments into outcomes.
 
-<h3> 💫 About Me:</h3>
-🔭 I’m currently working on<br>Building production-ready full-stack and applied AI systems, including a multi-tenant SaaS that integrates LLMs with backend services using strict validation, deterministic logic, and reliability guardrails.<br><br>👯 I’m looking to collaborate on<br>Software engineering projects involving backend development, APIs, system design, and applied AI features that need to be robust, testable, and scalable.<br><br>🤝 I’m looking for help with<br>Improving system design, performance, and scalability of backend services, and learning best practices used in production engineering teams.<br><br>🌱 I’m currently learning<br>System design fundamentals, scalable backend architecture, and reliable integration of AI components into software systems.<br><br>💬 Ask me about<br>Backend development, full-stack SaaS architecture, API design, integrating LLMs into applications, and building AI features with validation and guardrails.<br><br>⚡ Fun fact<br>I enjoy working on features where correctness, edge cases, and reliability matter more than just shipping something quickly.
+Currently: B.S. Business Administration, Information Systems @ CSULB (GPA 3.8, May 2027)
+Looking for: Product Analyst / Business Analyst / Data Analyst internships or new grad roles in the US
 
+---
 
-<h3>🌐 Socials:</h3>
+## What I build
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavithamburaj/) 
+**[ForecastForge](https://github.com/MilanKhiel/ai-feature-roi-forecaster)** — AI-powered SaaS that forecasts feature ROI before a line of code is written.
+Deterministic scoring + structured LLM reasoning → ROI score, ranked risks, validation experiments, 1-page decision memo.
+Stack: React · TypeScript · Express · MySQL · OpenAI API · Zod · Drizzle ORM
 
-<h3> 💻 Tech Stack:</h3>
+**[Netflix Analytics Dashboard](https://github.com/MilanKhiel/netflix-viz-dashboard)** — Interactive dashboard visualizing streaming trends by title and genre.
+Built with React and Chart.js. Explores views and watch-time patterns across a real streaming dataset.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+**[Data Validation & Testing Suite](https://github.com/MilanKhiel/testing-automation-sandbox)** — pytest-based framework for validating data transformation logic.
+Covers normal, edge, and error cases with structured input validation and exception handling.
 
-<h3>📊 GitHub Stats:</h3>
+---
 
-![](https://github-readme-stats.vercel.app/api?username=MilanKhiel&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MilanKhiel&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanKhiel&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Analytics | Programming | Tools |
+|-----------|-------------|-------|
+| SQL (Advanced) | Python | Tableau |
+| A/B Testing | Pandas · NumPy | Excel |
+| KPI Design | TypeScript | Git · GitHub |
+| Data Validation | R | Jira |
+| Statistical Analysis | Java (intro) | Jupyter Notebook |
+
+---
+
+## Experience highlights
+
+- **Product Management & Innovation Extern** @ BeReal (Feb–May 2026) — competitive benchmarking across 4 platforms, user journey analysis, feature prototype delivery
+- **Product Analyst Intern** @ CSULB College of Business (Nov 2024–Jan 2025) — 10+ A/B tests → 22% process efficiency gain, PRDs, KPI tracking in SQL & Excel
+- **Business Analyst Intern** @ Sri Laksmi Enterprises (Jun 2023–Aug 2024) — automated dashboards cut reporting time 50%, SQL queries informing 50+ business decisions
+
+---
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Thamburaj-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavithamburaj)
+
+📧 vaishhnavi09@gmail.com

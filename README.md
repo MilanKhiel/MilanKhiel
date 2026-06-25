@@ -2,7 +2,7 @@
 
 **Product & Data Analyst** — I turn data into decisions and product experiments into outcomes.
 
-Currently: B.S. Business Administration, Information Systems @ CSULB (GPA 3.8, May 2027)
+Currently: B.S. Business Administration, Information Systems @ CSULB (May 2027)
 Looking for: Product Analyst / Business Analyst / Data Analyst internships or new grad roles in the US
 
 ---

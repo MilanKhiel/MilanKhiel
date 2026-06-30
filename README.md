@@ -1,6 +1,6 @@
 # Vaishnavi Thamburaj
 
-**Data & Product Analyst · CSULB Information Systems · Class of 2027 · 3.8 GPA**
+**Data & Product Analyst · CSULB Information Systems · Class of 2027**
 
 I work at the intersection of data, product thinking, and business decisions.
 Not "aspiring" — I've shipped analysis that changed how executives reported, ran A/B tests

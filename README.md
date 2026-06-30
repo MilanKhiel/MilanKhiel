@@ -1,48 +1,68 @@
 # Vaishnavi Thamburaj
 
-**Product & Data Analyst** — I turn data into decisions and product experiments into outcomes.
+**Data & Product Analyst · CSULB Information Systems · Class of 2027 · 3.8 GPA**
 
-Currently: B.S. Business Administration, Information Systems @ CSULB (May 2027)
-Looking for: Product Analyst / Business Analyst / Data Analyst internships or new grad roles in the US
-
----
-
-## What I build
-
-**[ForecastForge](https://github.com/MilanKhiel/ai-feature-roi-forecaster)** — AI-powered SaaS that forecasts feature ROI before a line of code is written.
-Deterministic scoring + structured LLM reasoning → ROI score, ranked risks, validation experiments, 1-page decision memo.
-Stack: React · TypeScript · Express · MySQL · OpenAI API · Zod · Drizzle ORM
-
-**[Netflix Analytics Dashboard](https://github.com/MilanKhiel/netflix-viz-dashboard)** — Interactive dashboard visualizing streaming trends by title and genre.
-Built with React and Chart.js. Explores views and watch-time patterns across a real streaming dataset.
-
-**[Data Validation & Testing Suite](https://github.com/MilanKhiel/testing-automation-sandbox)** — pytest-based framework for validating data transformation logic.
-Covers normal, edge, and error cases with structured input validation and exception handling.
+I work at the intersection of data, product thinking, and business decisions.
+Not "aspiring" — I've shipped analysis that changed how executives reported, ran A/B tests
+that moved a real KPI 22%, and built product features from discovery to stakeholder pitch.
 
 ---
 
-## Skills
+### What I Actually Do
 
-| Analytics | Programming | Tools |
-|-----------|-------------|-------|
-| SQL (Advanced) | Python | Tableau |
-| A/B Testing | Pandas · NumPy | Excel |
-| KPI Design | TypeScript | Git · GitHub |
-| Data Validation | R | Jira |
-| Statistical Analysis | Java (intro) | Jupyter Notebook |
+**Analytics stack:** SQL (Advanced — HackerRank certified), Python (Pandas, NumPy, Matplotlib),
+Tableau, Power BI, Excel. I write queries that answer real questions, not demo queries.
 
----
+**Product work:** Competitive benchmarking, user journey mapping, KPI design, A/B testing,
+PRD writing, stakeholder presentations. Done this at BeReal and CSULB's business analytics team.
 
-## Experience highlights
-
-- **Product Management & Innovation Extern** @ BeReal (Feb–May 2026) — competitive benchmarking across 4 platforms, user journey analysis, feature prototype delivery
-- **Product Analyst Intern** @ CSULB College of Business (Nov 2024–Jan 2025) — 10+ A/B tests → 22% process efficiency gain, PRDs, KPI tracking in SQL & Excel
-- **Business Analyst Intern** @ Sri Laksmi Enterprises (Jun 2023–Aug 2024) — automated dashboards cut reporting time 50%, SQL queries informing 50+ business decisions
+**Technical depth:** REST API debugging, backend refactoring, unit testing with pytest, Git.
+Enough to work alongside engineers without slowing them down.
 
 ---
 
-## Find me
+### Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Thamburaj-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavithamburaj)
+| Role | Company | Dates |
+|---|---|---|
+| Product Management & Innovation Extern | BeReal | Feb–May 2026 |
+| Research Assistant | CSULB | Aug 2025–May 2026 |
+| Product Analyst Intern | CSULB College of Business | Nov 2024–Jan 2025 |
+| Business Analyst Intern, BI & Analytics | Sri Laksmi Enterprises | Jun 2023–Aug 2024 |
 
-📧 vaishhnavi09@gmail.com
+---
+
+### Projects
+
+**[Netflix Viz Dashboard](https://github.com/MilanKhiel/netflix-viz-dashboard)**
+Interactive streaming analytics dashboard. Built to answer what a content analyst actually
+needs to know: which titles drive watch time, how genres trend, what signals early.
+→ React · Chart.js · JavaScript
+
+**[AI Feature ROI Forecaster](https://github.com/MilanKhiel/ai-feature-roi-forecaster)**
+SaaS tool that estimates ROI of a product feature before development, using LLM-backed
+evidence reasoning. Solves a real PM problem: making the "should we build this?" decision
+defensible with data, not just instinct.
+→ TypeScript · Node.js · LLM APIs
+
+**[SQL Analytics Showcase](https://github.com/MilanKhiel/sql-analytics-showcase)** *(new repo — build this)*
+Complex SQL on real public datasets. CTEs, window functions, cohort analysis, funnel queries.
+Every query documented with the business question it answers.
+→ SQL · PostgreSQL
+
+**[Testing Automation Sandbox](https://github.com/MilanKhiel/testing-automation-sandbox)**
+pytest suite validating Python data transformation logic. Documents patterns for keeping
+data pipelines reliable.
+→ Python · pytest · GitHub Actions
+
+---
+
+### I'm targeting
+
+Analyst and APM internships (Summer 2026) and full-time roles (2027).
+Looking for companies where data actually drives product decisions.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaishnavithamburaj-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavithamburaj/)
+[![Email](https://img.shields.io/badge/Email-vaishhnavi09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vaishhnavi09@gmail.com)
